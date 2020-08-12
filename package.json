@@ -45,7 +45,7 @@
     "crypto": "0.0.3",
     "express": "~4.14.0",
     "express-session": "~1.13.0",
-    "file-stream-rotator": "~0.0.6",
+    "file-stream-rotator": "~0.5.7",
     "generate-password": "~1.1.1",
     "glob": "~7.0.0",
     "grunt": "~1.0.1",
